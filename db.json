@@ -1,0 +1,451 @@
+{
+	"category": [
+		{
+			"name": "products",
+			"link": "/products"
+		},
+		{
+			"name": "mobile",
+			"link": "/mobile"
+		},
+		{
+			"name": "electronics",
+			"link": "/electronics"
+		},
+		{
+			"name": "mens",
+			"link": "/mens"
+		},
+		{
+			"name": "womens",
+			"link": "/womens"
+		},
+		{
+			"name": "baby & kids",
+			"link": "/"
+		},
+		{
+			"name": "home & furniture",
+			"link": "/"
+		},
+		{
+			"name": "grocery",
+			"link": "/"
+		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"title": "Nothing Phone (2a) 5G (Black, 256 GB)  (8 GB RAM)",
+			"price": 25999,
+			"oldPrice": 29999,
+			"stockCount": 10,
+			"brand": "Nothing",
+			"highlights": [
+				"8 GB RAM | 256 GB ROM",
+				"17.02 cm (6.7 inch) Full HD+ Display",
+				"50MP (OIS) + 50MP | 32MP Front Camera",
+				"5000 mAh Battery",
+				"Dimensity 7200 Pro Processor"
+			],
+			"description": [
+				"Phone (2a) is fuelled by the custom Dimesity 7200 Pro chipset. Co-engineered between Nothing and MediaTek to deliver the best performance with optimal power consumption. Do more whilst using less thanks to game-changing efficiency from the 8-core 4nm TSMC 2nd Generation process, with clocking speeds of up to 2.8 GHz for multi-tasking to the max. Plus get up to 20 GB RAM with 8 GB RAM Booster.",
+				"Advanced Rear Camera Capture life as it's happening. Phone (2a) packs a 50 MP main sensor with nearly double the pixel well depth compared to Phone (1) This means that even in the most compromising conditions, contrast details can be captured with no blooming or smearing. Sits alongside a 50 MP ultra-wide sensor with a 114° field-of-view that brings out the best in every scene and group get-together.",
+				"32 MP Selfie Camera You are in your best light. Land the perfect selfies anytime, anywhere with an exceptional 32 MP front camera that uses the same sensor as the Phone (2). Or self-record in immersive 1080p at 60 FPS"
+			],
+			"category": "mobile",
+			"image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/h/i/x/-original-imagyr3vfpqrpkbv.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.5,
+				"ratings": 9247,
+				"reviews": 1526
+			}
+		},
+		{
+			"id": 2,
+			"title": "vivo T2x 5G (Aurora Gold, 128 GB)  (6 GB RAM)",
+			"price": 12999,
+			"oldPrice": 18999,
+			"stockCount": 0,
+			"brand": "Vivo",
+			"highlights": [
+				"6 GB RAM | 128 GB ROM",
+				"16.71 cm (6.58 inch) Full HD+ Display",
+				"50MP + 2MP | 8MP Front Camera",
+				"5000 mAh Battery",
+				"Mediatek Dimensity 6020 Processor"
+			],
+			"description": [
+				"With the superb Vivo T2x 5G, you can take advantage of great pictures and a flawless user experience. With the Vivo T2x 5G, you can experience exceptional performance owing to its 7 nm 5G CPU, the octa-core Dimensity 6020, with a top clock speed of 2.2 GHz. Additionally, the 50 MP main camera on this smartphone beautifully catches every detail you see. Additionally, Super Night Selfie employs noise cancellation technology in conjunction with an Aura Screen Light to produce a calming light that is effective in low light. The pioneering Extended RAM 3.0 technology also uses ROM to expand RAM with a maximum capacity of 8 GB. This enables smooth app switching and allows up to 27 active applications to run in the background.",
+				"You can experience outstanding performance with the Vivo T2x 5G thanks to its 7 nm 5G processor, the octa-core Dimensity 6020, with a maximum clock speed of 2.2 GHz. Furthermore, 5G makes it easy to share media and download files quickly owing to its high capacity and minimal jitter. You are entitled to seamless performance and enhanced visuals in online games and films.",
+				"This smartphone's 50 MP primary camera captures every detail you see in stunning pictures. You can rely on this phone's image processing to generate razor-sharp photographs with intricate details in any lighting condition. Moreover, this phone's multi-frame denoising feature makes it possible to take crystal-clear, gorgeous portrait photos. Additionally, it can adjust bokeh effects to fit various point lighting."
+			],
+			"category": "mobile",
+			"image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.4,
+				"ratings": 375989,
+				"reviews": 21208
+			}
+		},
+		{
+			"id": 3,
+			"title": "Infinix SMART 8 HD (Crystal Green, 64 GB)  (3 GB RAM)",
+			"price": 6499,
+			"oldPrice": 7999,
+			"stockCount": 9,
+			"brand": "infinix",
+			"highlights": [
+				"3 GB RAM | 64 GB ROM",
+				"16.76 cm (6.6 inch) Full HD+ Display",
+				"13MP + AI | 8MP Front Camera",
+				"5000 mAh Battery",
+				"T606 Processor"
+			],
+			"description": [
+				"Behold the Infinix SMART 8HD, crafted for the vibrant spirit of its users. This device isn't just a phone; it's a statement of style and innovation. With its elegant timber texture finish, the SMART 8HD stands out in both design and functionality. The groundbreaking Magic Ring introduces an array of features at your fingertips, including Face Unlock, Background Call, and an enchanting Charging Animation. Underneath its sleek exterior lies a powerhouse of performance with up to 6 GB of RAM (3 GB physical + 3 GB virtual) and 64 GB of UFS 2.2 fast internal storage. This combination ensures smooth operation and ample space for all your cherished content. Embrace the future of mobile technology and let the Infinix SMART 8HD be your companion in the journey of life, where style meets efficiency.",
+				"Aesthetic Mastery: Premium Timber Texture Finish Embark on a visual journey with the SMART 8HD's premium design. Its unique timber texture finish is not just a treat to the eyes but a masterpiece to hold. This design transforms the perception of budget-friendly smartphones, setting a new benchmark for elegance and comfort.",
+				"Magic Ring Experience the future with the innovative Magic Ring. This feature is a game-changer, offering unparalleled convenience with Face Unlock, Background Call, Charging Animation, Charge Completion Reminder, and Low Battery Reminder. It's not just an addition; it's a transformation of your smartphone experience."
+			],
+			"category": "mobile",
+			"image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/q/k/r/-original-imagwfffv4dj3x4y.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.3,
+				"ratings": 22896,
+				"reviews": 1882
+			}
+		},
+		{
+			"id": 4,
+			"title": "OPPO Reno10 5G (Ice Blue, 256 GB)  (8 GB RAM)",
+			"price": 32999,
+			"oldPrice": 38999,
+			"stockCount": 10,
+			"brand": "oppo",
+			"highlights": [
+				"8 GB RAM | 256 GB ROM",
+				"17.02 cm (6.7 inch) Full HD+ Display",
+				"64MP + 50MP + 2MP | 32MP Front Camera",
+				"5000 mAh Battery",
+				"Mediatek Dimensity 6020 Processor"
+			],
+			"description": [
+				"Explore a range of new features on this Oppo Reno 10 5G smartphone. Capture interesting snaps with the ultra clear Portrait camera. This phone has a 64 MP main camera, 32 MP Telephoto camera, 32 MP selfie camera and a 112 degree wide-angle camera. Make a plethora of possibilities with the Telephoto portrait camera available with this phone. The Pro Portrait Mode lets you capture vivid pictures similar to that of a DSLR camera. This sleek phone weighs only about 185 g and has a 3D curved screen with 120 Hz. Powered with a 5000 mAh battery and 67 W SUPERVOOC charger, this phone runs for an entire day. This Oppo smartphone is equipped with MediaTek Dimensity 7050 SoC Processor and comprises a powerful computing engine. You can explore other features on this phone such as dual stereo speakers, screencast feature, IR remote control, smart AOD functionality and Auto Pixelate for safe file transferring.",
+				"With the improved imaging hardware camera in this Oppo Reno 10 5G smartphone, you can capture impressive pictures in high clarity. When your friends take photos in this camera, they are going to fall in love with your phone and would always wish for your phone’s camera for all their photoshoots. With a 64 MP Main Camera, 32 MP Telephoto Camera, 112-degree ultra-wide-angle camera, and 32 MP ultra-clear selfie camera, this phone has an awesome camera setup to lighten your moods at all times.",
+				"With the high-resolution Telephoto Camera available on this mobile, you can take pictures like a pro and create an album with innumerable photos and videos. The camera is equipped with a Sony IMX709 flagship sensor camera that offers professional portrait focal length photography where you can click clear, natural, and vivid portrait images all the time and cherish these memories for years to come."
+			],
+			"category": "mobile",
+			"image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/u/w/-original-imagtcrvzrqnnxpc.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.2,
+				"ratings": 40896,
+				"reviews": 4949
+			}
+		},
+		{
+			"id": 5,
+			"title": "OnePlus Y1 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio  (32HA0A00)",
+			"price": 12999,
+			"oldPrice": 18999,
+			"stockCount": 9,
+			"brand": "OnePlus",
+			"highlights": [
+				"Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube",
+				"Operating System: Android (Google Assistant & Chromecast in-built)",
+				"Resolution: HD Ready 1366 x 768 Pixels",
+				"Sound Output: 20 W",
+				"Refresh Rate: 60 Hz"
+			],
+			"description": [
+				"Delight your senses by watching your favourite content on this OnePlus TV. With its HD display and Gamma Engine, this TV produces vivid and high-quality visuals to ensure an enhanced viewing experience. It also has 20 W box speakers that deliver rich and clear audio.",
+				"93% Colour Gamut its wide display with 93% color gamut produces lifelike visuals with vivid colors",
+				"Gamma Engine The Gamma Engine, with noise reduction, color space mapping, dynamic contrast and anti-aliasing, offers high-quality visuals on the screen."
+			],
+			"category": "electronics",
+			"image": "https://rukminim2.flixcart.com/image/416/416/kqidx8w0/television/m/1/v/32ha0a00-oneplus-original-imag4gy8yezxdhen.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.3,
+				"ratings": 98093,
+				"reviews": 8502
+			}
+		},
+		{
+			"id": 6,
+			"title": "LG 8.5 kg 5 Star with Roller Jet Pulsator with Soak, Wind Jet Dry and Collar Scrubber Semi Automatic Top Load Washing Machine Maroon, White  (P8530SRAZ)",
+			"price": 14990,
+			"oldPrice": 19990,
+			"stockCount": 5,
+			"brand": "LG",
+			"highlights": [
+				"Semi Automatic Top Load",
+				"1300 rpm : Higher the spin speed, lower the drying time",
+				"5 Star Rating",
+				"8.5 kg"
+			],
+			"description": [
+				"This LG washing machine comes with 3+1 wash programmes for you to choose from based on your requirements. The Wind Jet Dry removes the moisture inside the washing machine through the Spin function to push in the air to remove water from your clothes. The Lint collector removes the lint from your clothes to keep them spot-free. This washing machine features a Collar scrubber to remove stains from collars and cuffs. The Roller Jet Pulsator helps to rotate the clothes to create more friction for an effective wash cycle. The soak technology allows you to soak your clothes inside this machine before every wash.",
+				"3+1 Wash Programmes This LG washing machine features 3+1 wash programmes - Gentle, Normal, and Strong. You can choose from the different wash programmes according to your requirements to give a customised wash cycle to your favourite clothes.",
+				"Wind Jet Dry The Wind Jet Dry removes moisture from the machine through the Spin function. The tub rotates at high RPM to drain the water from your clothes by pulling in the air which helps in drying the clothes quickly."
+			],
+			"category": "electronics",
+			"image": "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/2/6/m/-original-imagx7qhyteggfcb.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.4,
+				"ratings": 3836,
+				"reviews": 309
+			}
+		},
+		{
+			"id": 7,
+			"title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+			"price": 289,
+			"oldPrice": 1299,
+			"stockCount": 20,
+			"brand": "VTEXX",
+			"highlights": [
+				"Full Sleeves",
+				"Suitable for Various Occasions"
+			],
+			"description": [
+				"A cornerstone of sophisticated attire, the VTEXX Men’s Regular-fit Full-sleeve Formal Shirt combines timeless style with functionality. Particularly suitable for professional settings and upscale occasions, this meticulously tailored formal shirt comes with full sleeves that offer refined aesthetics and provide added coverage and warmth. This long-sleeved shirt can seamlessly transition from formal to semi-formal with a simple rolling up of the sleeves. The contrasting border elevates the overall appeal while creating a relaxed yet stylish look.",
+				"Suitable for Various Occasions Versatile and suitable for a wide range of body types, this regular-fit shirt can accommodate the natural contours of the body comfortably, allowing for ease of movement while creating a well-proportioned appearance. Exuding professionalism and attention to detail, this formal shirt can be worn to work or on occasions like business meetings, presentations, conferences, etc. You can style this solid shirt with a pair of dress pants or trousers or layer it with a well-fitted suit jacket or blazer for a classy, cohesive look."
+			],
+			"category": "mens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/b/d/f/3xl-13-lstr-wine-vtexx-original-imagnzbummhkgr7p.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4,
+				"ratings": 85559,
+				"reviews": 6358
+			}
+		},
+		{
+			"id": 8,
+			"title": "Men Slim Mid Rise Dark Grey Jeans",
+			"price": 1375,
+			"oldPrice": 3099,
+			"stockCount": 10,
+			"brand": "Raymond",
+			"highlights": [
+				"Color Grey",
+				"Fabric Polyester",
+				"Pattern Self Design",
+				"Style code RMJX02356-G7",
+				"Occasion Formal",
+				"Type Single Breasted"
+			],
+			"description": [],
+			"category": "mens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/blazer/n/v/d/-original-imagy4tjaezvdqkg.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 3.7,
+				"ratings": 51,
+				"reviews": 6
+			}
+		},
+		{
+			"id": 9,
+			"title": "Men Self Design Single Breasted Formal Blazer  (Grey)",
+			"price": 3659,
+			"oldPrice": 6999,
+			"stockCount": 0,
+			"brand": "KILLER",
+			"highlights": [
+				"SLM- SLMFT DKGR",
+				"Ideal For Men",
+				"Suitable For Western Wear",
+				"Pack Of 1",
+				"Pocket Type Curved Pocket, Patch Pocket"
+			],
+			"description": [
+				"Killer Mens Slim Fit Stretchable Knitted BBD Jeans"
+			],
+			"category": "mens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/e/v/e/-original-imagv2sz6zzg3htb.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4,
+				"ratings": 242,
+				"reviews": 25
+			}
+		},
+		{
+			"id": 10,
+			"title": "TSS Originals Men Solid Round Neck Cotton Blend Pink T-Shirt",
+			"price": 734,
+			"oldPrice": 1499,
+			"stockCount": 8,
+			"brand": "The Souled Store",
+			"highlights": [
+				"Type Round Neck",
+				"Sleeve Half Sleeve",
+				"Fit Regular",
+				"Fabric Cotton Blend",
+				"Sales Package 1 T-shirt Pack of 1",
+				"Style Code 181117",
+				"Neck Type Round Neck"
+			],
+			"description": [],
+			"category": "mens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/i/x/j/xxl-181117-the-souled-store-original-imaghmqyk2cb9ff9.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.1,
+				"ratings": 217,
+				"reviews": 15
+			}
+		},
+		{
+			"id": 11,
+			"title": "Printed Daily Wear Chiffon, Brasso Saree  (Green, Blue)",
+			"price": 735,
+			"oldPrice": 3599,
+			"stockCount": 8,
+			"brand": "mahalaxmi fab",
+			"highlights": [
+				"Style Code MF_RT PATA 501",
+				"Pattern Printed",
+				"Pack of 1",
+				"Occasion Party & Festive",
+				"Fabric Care Hand Wash, Dry Clean for the first wash, thereafter Hand Wash",
+				"Fabric Chiffon, Brasso",
+				"Type Daily Wear",
+				"Blouse Piece Unstitched"
+			],
+			"description": [],
+			"category": "womens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/f/n/d/-original-imaguzbhbtzun2w8.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.1,
+				"ratings": 347,
+				"reviews": 27
+			}
+		},
+		{
+			"id": 12,
+			"title": "Women Pure Cotton Kurta Pant Dupatta Set",
+			"price": 799,
+			"oldPrice": 3999,
+			"stockCount": 25,
+			"brand": "Klosia",
+			"highlights": [
+				"Fabric Pure Cotton",
+				"Type Kurta, Pyjama & Dupatta Set",
+				"Sales Package Kurta, Pant, Dupatta",
+				"Style Code Y1002",
+				"Top fabric Viscose",
+				"Bottom fabric Viscose",
+				"Top type Kurta",
+				"Bottom type Pant"
+			],
+			"description": [],
+			"category": "womens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/ethnic-set/b/7/9/l-y1002-klosia-original-imagmtffxfeqzgcd.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.2,
+				"ratings": 13173,
+				"reviews": 1109
+			}
+		},
+		{
+			"id": 13,
+			"title": "Women Chanderi Kurta Pant Dupatta Set",
+			"price": 739,
+			"oldPrice": 2099,
+			"stockCount": 25,
+			"brand": "DISHWA FASHION",
+			"highlights": [
+				"Fabric Chanderi",
+				"Type Kurta, Pant And Dupatta Set",
+				"Sales Package 1 KURTI, 1 PALAZZO, 1 DUPATTA",
+				"Style Code CHANDERI",
+				"Secondary color Purple",
+				"Lining material chanderi",
+				"Top fabric Art Silk",
+				"Bottom fabric Silk"
+			],
+			"description": [],
+			"category": "womens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/ethnic-set/k/e/o/xxl-rs-var2205188-2205189-varanga-original-imagkwbswyrwd9hf.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.2,
+				"ratings": 13351,
+				"reviews": 1088
+			}
+		},
+		{
+			"id": 14,
+			"title": "Printed Georgette Stitched Anarkali Gown  (Yellow)",
+			"price": 779,
+			"oldPrice": 2499,
+			"stockCount": 25,
+			"brand": "KRULRIN",
+			"highlights": [
+				"Style Code 220-yellow",
+				"Occasion Party & Festive, Casual",
+				"Neck Sweetheart Neck",
+				"Sleeve Full Sleeve",
+				"Length 54 inch",
+				"Bust Size 22 inch",
+				"Fabric Care Dry Clean Only",
+				"Fabric Georgette"
+			],
+			"description": [],
+			"category": "womens",
+			"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/gown/i/o/g/20-l-3-4-sleeve-stitched-shagun-shree-khodiyar-50-original-imagqx2wppydz2vh.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 3.8,
+				"ratings": 1370,
+				"reviews": 89
+			}
+		},
+		{
+			"id": 15,
+			"title": "LG 28 L Health Plus Menu and Stainless Steel",
+			"price": 12690,
+			"oldPrice": 13813,
+			"stockCount": 5,
+			"brand": "LG",
+			"highlights": [
+				"28 L",
+				"Convection : Can be used for baking along with grilling, reheating, defrosting and cooking",
+				"Touch Key Pad (Membrane) is sensitive to touch and easy to clean"
+			],
+			"description": [
+				"You can bake a cake, grill sandwiches, roast chicken and veggies, and do much more in the LG MC2846BV 28 L Convection Microwave Oven. With its single-touch cooking function, this oven offers a user-friendly experience. Additionally, this oven's concealed heater protects against accidental hand injuries and ensures safe cooking. Also, you can prepare large quantities of food at once courtesy of this oven's quick performance. Moreover, this oven is ideal for you if you are worried about your regular calorie intake and overall health because it has a variety of autocook menus.",
+				"To avoid any physical damage to the product while unboxing, please ensure that only an authorised Flipkart delivery/service executive or brand personnel opens the packaging."
+			],
+			"category": "electronics",
+			"image": "https://rukminim2.flixcart.com/image/416/416/xif0q/microwave-new/g/7/w/-original-imagtvpdsndmhhce.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.4,
+				"ratings": 6093,
+				"reviews": 631
+			}
+		},
+		{
+			"id": 16,
+			"title": "SAMSUNG 183 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer with Digital Inverter  (Camellia Blue, RR20C1824CU/HL)",
+			"price": 16390,
+			"oldPrice": 22999,
+			"stockCount": 5,
+			"brand": "SAMSUNG",
+			"highlights": [
+				"183 L",
+				"Digital Inverter Compressor",
+				"4 Star",
+				"Direct Cool",
+				"Base Stand with Drawer"
+			],
+			"description": [
+				"High-performance and practical, the Samsung Refrigerator is an exceptional addition to your kitchen. It offers energy efficiency, minimal operating noise, and long-lasting durability with its Digital Inverter technology. And, the Digital Inverter Compressor in this refrigerator automatically changes its speed in response to cooling needs. Also, this refrigerator is protected from voltage fluctuations because it operates with a wide voltage range of 100 V to up to 300 V. Moreover, without requiring a stabiliser, it can keep running steadily and smoothly.",
+				"Thanks to its Digital Inverter technology, the Samsung Refrigerator facilitates energy efficiency, low operational noise, and long-lasting durability. Additionally, in response to the cooling requirements, this refrigerator's Digital Inverter Compressor automatically modifies its speed.",
+				"As this refrigerator functions with a wide voltage range of 100 V to up to 300 V, it is protected from voltage fluctuations. In addition, its stabiliser-free operation enables it to continue operating smoothly and stably. Besides, if there's a significant increase in the voltage, the power is immediately cut off to prevent electrical damage."
+			],
+			"category": "electronics",
+			"image": "https://rukminim2.flixcart.com/image/416/416/xif0q/refrigerator-new/f/w/l/-original-imagm7rj9pagyqxc.jpeg?q=70&crop=false",
+			"rating": {
+				"rate": 4.4,
+				"ratings": 22529,
+				"reviews": 1750
+			}
+		}
+	]
+}
